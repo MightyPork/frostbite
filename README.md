@@ -1,2 +1,5 @@
 # frostbite
-It's like a regular frostbite, but more digital.
+
+Because why not?
+
+The cold never bothered me anyway.
