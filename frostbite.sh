@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #############################################
 #   FAIR WARNING: DO NOT RUN THIS PROGRAM   #
 #############################################
@@ -13,4 +15,5 @@ function frostbite {
 	};
 	freeze
 }
+
 frostbite
