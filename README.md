@@ -4,6 +4,7 @@ Because why not?
 
 The cold never bothered me anyway.
 
+```
       \__    __/
       /_/ /\ \_\
      __ \ \/ / __
@@ -14,3 +15,4 @@ The cold never bothered me anyway.
       __/ /\ \__
       \_\ \/ /_/
       /        \
+```
