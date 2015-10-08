@@ -1,2 +1,2 @@
 # frostbite
-It's like a regular frostbite, but more digital
+It's like a regular frostbite, but more digital.
