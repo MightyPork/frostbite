@@ -1,5 +1,3 @@
 # frostbite
 
-Because why not?
-
-The cold never bothered me anyway.
+Does the cold bother you?
